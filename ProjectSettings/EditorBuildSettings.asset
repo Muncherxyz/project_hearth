@@ -7,6 +7,7 @@ EditorBuildSettings:
   m_Scenes: []
   m_configObjects:
     Niantic.Lightship.AR.LightshipSettings: {fileID: 11400000, guid: b22a42348de60d54db3db25ac55d5434, type: 2}
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 92279ab0a864a3a47a3e865291dfcb0d, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 3c3e8453bd4de7c4b9bdb904c21a8004, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 81019cd88945d654399986891629d7a0, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: afdd1c2144c8acb4ea9c6a95ad818bbf, type: 2}
