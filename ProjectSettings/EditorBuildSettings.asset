@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     Niantic.Lightship.AR.LightshipSettings: {fileID: 11400000, guid: b22a42348de60d54db3db25ac55d5434, type: 2}
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 92279ab0a864a3a47a3e865291dfcb0d, type: 2}
