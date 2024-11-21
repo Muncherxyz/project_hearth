@@ -455,7 +455,8 @@ MonoBehaviour:
   SeedValue: 0
   PrefabsToSpawn:
   - Labels: 16
-    Prefabs: []
+    Prefabs:
+    - {fileID: 7088371874679692893, guid: bf22cf2363bf3634ba49390cd6fad778, type: 3}
     PrefabSelection: 0
     MatchAspectRatio: 0
     CalculateFacingDirection: 0
