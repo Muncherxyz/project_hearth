@@ -453,7 +453,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SpawnOnStart: 1
   SeedValue: 0
-  PrefabsToSpawn: []
+  PrefabsToSpawn:
+  - Labels: 16
+    Prefabs: []
+    PrefabSelection: 0
+    MatchAspectRatio: 0
+    CalculateFacingDirection: 0
+    Scaling: 0
+    Alignment: 0
+    IgnorePrefabSize: 0
 --- !u!4 &893414568
 Transform:
   m_ObjectHideFlags: 0
