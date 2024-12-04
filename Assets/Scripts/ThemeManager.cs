@@ -59,7 +59,6 @@ public class ThemeManager : MonoBehaviour
             }
         }
         PlayerPrefs.Save();
-        effectMesh.HideMesh = true;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         
     }
