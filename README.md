@@ -1,6 +1,10 @@
 # Hearth
 
+<center>
+
 ![Hearth Logo](./img/HearthLogo%20-%20PixelArt.png)
+
+</center>
 
 **Hearth** is a project designed to reduce the visual stressors and stimulators of an environment by giving objects a themed overlay.
 
