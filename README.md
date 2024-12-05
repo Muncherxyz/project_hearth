@@ -19,9 +19,10 @@ The **Hearth** project is designed to reduce the visual stressors and stimulator
 ## Connect With Us
 
 **Christian Ashley**
-* LinkedIn
-* email
-* GitHub
+
+* [LinkedIn](https://www.linkedin.com/in/christianashley2000/)
+* [GitHub](https://github.com/Christian-Ashley)
+* [christian.ashley@atlasschool.com](mailto:christian.ashley@atlasschool.com)
 
 **Jabulani Ndhlovu**
 
@@ -34,23 +35,15 @@ The **Hearth** project is designed to reduce the visual stressors and stimulator
 
 **Kortlan Blocker**
 
-* LinkedIn
-* GitHub
-* email
+* [LinkedIn](https://www.linkedin.com/in/kortlan-blocker-2673il/)
+* [GitHub](https://github.com/Muncherxyz)
+* [19kortlanblocker@gmail.com](mailto:19kortlanblocker@gmail.com)
 
 **Kaleb Kuykendall**
 
 <img src="./img/headshot/kaleb-Kuykendall-headshot.jpg" alt="Kaleb Kuykendall" width="200"/>
 
-* LinkedIn
-* GitHub
-* email
 
-
-**Amir Colbert**
-
-* LinkedIn
-* GitHub
-* email
-
-
+* [LinkedIn](https://www.linkedin.com/in/kalebtk/)
+* [GitHub](https://github.com/SeaKale22)
+* [kaleb.kuykendall@atlasschool.com](mailto:kaleb.kuykendall@atlasschool.com)
