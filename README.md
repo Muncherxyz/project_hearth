@@ -25,39 +25,32 @@ The **Hearth** project is designed to reduce the visual stressors and stimulator
 
 **Jabulani Ndhlovu**
 
-<div class="container">
-  <img src="./img/headshot/Jabulani.jpg" alt="Jabulani Ndhlovu" class="image">
-  <div class="overlay">
-    <div class="text">
-    <a href="https://www.linkedin.com/in/jabulani-ndhlovu/">LinkedIn</a>
-    <br>
-    <a href="https://github.com/Jabulani-N">GitHub</a>
-    <br>
-    <a href="mailto:jabulani.ndh@gmail.com">jabulani.ndh@gmail.com</a>
-    </div>
-  </div>
-</div>
+<img src="./img/headshot/Jabulani.jpg" alt="Jabulani Ndhlovu" width="200"/>
+
+* [LinkedIn](https://www.linkedin.com/in/jabulani-ndhlovu/)
+* [GitHub](https://github.com/Jabulani-N)
+* [jabulani.ndh@gmail.com](mailto:jabulani.ndh@gmail.com)
 
 
 **Kortlan Blocker**
 
 * LinkedIn
-* email
 * GitHub
+* email
 
 **Kaleb Kuykendall**
 
 <img src="./img/headshot/kaleb-Kuykendall-headshot.jpg" alt="Kaleb Kuykendall" width="200"/>
 
 * LinkedIn
-* email
 * GitHub
+* email
 
 
 **Amir Colbert**
 
 * LinkedIn
-* email
 * GitHub
+* email
 
 
