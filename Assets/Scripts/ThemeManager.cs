@@ -10,8 +10,6 @@ public class ThemeManager : MonoBehaviour
     [Tooltip("Each gameObject in this list must be a Anchor Prefab Spawner")]
     [SerializeField] public List<GameObject> themes;
 
-    public EffectMesh effectMesh;
-
     /*
      * sets active the theme (AnchorPrefabSpawner GameObject) according to
      * PlayerPrefs, using the theme name as the key and a value of 1 to set as active,
@@ -59,7 +57,6 @@ public class ThemeManager : MonoBehaviour
             }
         }
         PlayerPrefs.Save();
-        effectMesh.HideMesh = true;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         
     }
