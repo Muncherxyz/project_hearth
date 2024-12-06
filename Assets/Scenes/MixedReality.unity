@@ -3555,7 +3555,7 @@ MonoBehaviour:
     IgnorePrefabSize: 0
   - Labels: 4
     Prefabs:
-    - {fileID: 7248994764081427728, guid: 19e2bf764a1c62d4d9021711ad3ea118, type: 3}
+    - {fileID: 8880387735301907180, guid: 27ff3d805f7c4bf49a6dff97613e02ed, type: 3}
     PrefabSelection: 0
     MatchAspectRatio: 0
     CalculateFacingDirection: 1
