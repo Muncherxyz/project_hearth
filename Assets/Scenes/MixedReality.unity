@@ -228,7 +228,6 @@ MonoBehaviour:
     IgnorePrefabSize: 0
   - Labels: 128
     Prefabs:
-    - {fileID: 7182297672045847925, guid: 129e9835bc0e2e84faf2ef68c431897b, type: 3}
     - {fileID: 5751243966472568706, guid: 17cdf33a1a8358d46b4e2f3a4e4e882f, type: 3}
     PrefabSelection: 1
     MatchAspectRatio: 0
@@ -257,6 +256,15 @@ MonoBehaviour:
   - Labels: 512
     Prefabs:
     - {fileID: 8986641337573216207, guid: 016ee2c3807595d44a095fd243779117, type: 3}
+    PrefabSelection: 1
+    MatchAspectRatio: 0
+    CalculateFacingDirection: 1
+    Scaling: 0
+    Alignment: 0
+    IgnorePrefabSize: 0
+  - Labels: 16
+    Prefabs:
+    - {fileID: 7182297672045847925, guid: 129e9835bc0e2e84faf2ef68c431897b, type: 3}
     PrefabSelection: 1
     MatchAspectRatio: 0
     CalculateFacingDirection: 1
@@ -1301,7 +1309,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: -0.8}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 874, y: 570}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &660977156
@@ -1407,6 +1415,15 @@ MonoBehaviour:
     Scaling: 0
     Alignment: 0
     IgnorePrefabSize: 0
+  - Labels: 32
+    Prefabs:
+    - {fileID: 1451343612572638, guid: 4277c84f4eb45414089869ec9eed16a9, type: 3}
+    PrefabSelection: 1
+    MatchAspectRatio: 0
+    CalculateFacingDirection: 1
+    Scaling: 0
+    Alignment: 0
+    IgnorePrefabSize: 0
 --- !u!1 &666032171
 GameObject:
   m_ObjectHideFlags: 0
@@ -1468,7 +1485,7 @@ MonoBehaviour:
     IgnorePrefabSize: 0
   - Labels: 8
     Prefabs:
-    - {fileID: 7690519952026649423, guid: 6f43b2566a8dcad4aa8e75125eeda38e, type: 3}
+    - {fileID: 1874411562313480, guid: 57479594e34ed7342a5460cfffef0ddc, type: 3}
     PrefabSelection: 0
     MatchAspectRatio: 0
     CalculateFacingDirection: 1
